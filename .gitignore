@@ -31,3 +31,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+/gradle/
+/troubleshooter/build.gradle
+/troubleshooter/consumer-rules.pro
+/troubleshooter/proguard-rules.pro
